@@ -4,12 +4,13 @@ Durante o curso de Estrutura de Dados no IFCE, desenvolvi um sistema de simulaç
 
 Principais funcionalidades:
 
-Inicialização dinâmica de prédios e elevadores utilizando estruturas de dados como filas e listas encadeadas.
-Processamento eficiente de comandos e demandas dos elevadores.
-Simulação do movimento dos elevadores e atendimento de requisições de andares.
-Manipulação de filas para gerenciar o fluxo de pessoas dentro dos elevadores.
+- Inicialização dinâmica de prédios e elevadores utilizando estruturas de dados como filas e listas encadeadas.
+- Processamento eficiente de comandos e demandas dos elevadores.
+- Simulação do movimento dos elevadores e atendimento de requisições de andares.
+- Manipulação de filas para gerenciar o fluxo de pessoas dentro dos elevadores.
+
 Ferramentas e técnicas utilizadas:
 
-Alocação dinâmica de memória com malloc e estruturas encadeadas.
-Estruturas de controle como fila de comandos para gerenciar o fluxo de entrada.
-Funções separadas em arquivos .h e .c para modularidade e reutilização de código.
+- Alocação dinâmica de memória com malloc e estruturas encadeadas.
+- Estruturas de controle como fila de comandos para gerenciar o fluxo de entrada.
+- Funções separadas em arquivos .h e .c para modularidade e reutilização de código.
